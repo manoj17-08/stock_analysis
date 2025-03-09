@@ -1,2 +1,2 @@
 # stock_analysis
-this web application predicts the stocks of various organizations using LSTM and deep learning models
+This project is useful for stock traders, investors, and finance enthusiasts who want to analyze trends and explore machine learning applications in finance.
